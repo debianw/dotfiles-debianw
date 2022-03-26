@@ -1,0 +1,78 @@
+pane	3advance	0	:hype-mobile	1	:*Z	0	:/Users/waly/Development/projects/3advance/hype-mobile	1	nvim	:nvim .
+pane	3advance	0	:hype-mobile	1	:*Z	1	:/Users/waly/Development/projects/3advance/hype-mobile	0	zsh	:
+pane	3advance	1	:hype-expo	0	:	0	:/Users/waly/Development/projects/3advance/hype-expo	1	zsh	:
+pane	3advance	1	:hype-expo	0	:	1	:/Users/waly/Development/projects/3advance/hype-expo	0	zsh	:
+pane	3advance	1	:hype-expo	0	:	2	:/Users/waly/Development/projects/3advance/hype-expo	0	zsh	:
+pane	3advance	2	:hype-web	0	:-	0	:/Users/waly/Development/projects/3advance/hype-web	0	zsh	:
+pane	3advance	2	:hype-web	0	:-	1	:/Users/waly/Development/projects/3advance/hype-web	1	zsh	:
+pane	3advance	2	:hype-web	0	:-	2	:/Users/waly/Development/projects/3advance/hype-admin-OLD	0	zsh	:
+pane	3advance	3	:hype-admin-proto	0	:	0	:/Users/waly/Development/prototype/material-kit-react	1	zsh	:
+pane	3advance	3	:hype-admin-proto	0	:	1	:/Users/waly/Development/prototype/material-kit-react	0	zsh	:
+pane	3advance	3	:hype-admin-proto	0	:	2	:/Users/waly/Development/prototype/material-kit-react	0	zsh	:
+pane	DarkPOS-BE	0	:backend	1	:*Z	0	:/Users/waly/Development/projects/darkpos/back-end	0	zsh	:
+pane	DarkPOS-BE	0	:backend	1	:*Z	1	:/Users/waly/Development/projects/darkpos/back-end	1	nvim	:nvim .
+pane	DarkPOS-BE	0	:backend	1	:*Z	2	:/Users/waly/Development/projects/darkpos/back-end	0	zsh	:
+pane	DarkPOS-FE	0	:E11	0	:Z	0	:/Users/waly/Development/projects/darkpos/front-end	0	zsh	:
+pane	DarkPOS-FE	0	:E11	0	:Z	1	:/Users/waly/Development/projects/darkpos/front-end	1	nvim	:nvim .
+pane	DarkPOS-FE	0	:E11	0	:Z	2	:/Users/waly/Development/projects/darkpos/front-end	0	zsh	:
+pane	DarkPOS-FE	1	:enlite-10	0	:-Z	0	:/Users/waly/Development/projects/darkpos/enlite-10-final/EnliteCloud_API	1	nvim	:nvim .
+pane	DarkPOS-FE	1	:enlite-10	0	:-Z	1	:/Users/waly/Development/projects/darkpos/enlite-10-final/EnliteCloud_API	0	make	:/Applications/Xcode.app/Contents/Developer/usr/bin/make mount
+pane	DarkPOS-FE	1	:enlite-10	0	:-Z	2	:/Users/waly/Development/projects/darkpos/enlite-10-final/EnliteCloud_API	0	zsh	:
+pane	DarkPOS-FE	2	:nvim	1	:*	0	:/Users/waly/Development/projects/darkpos/enlite-10-final/EnliteCloud_API	1	nvim	:nvim .
+pane	EpicReact	0	:practice	0	:	0	:/Users/waly/Development/projects/debianw/epic-react/react-performance	0	zsh	:
+pane	EpicReact	0	:practice	0	:	1	:/Users/waly/Development/projects/debianw/epic-react/react-performance	1	zsh	:
+pane	EpicReact	0	:practice	0	:	2	:/Users/waly/Development/projects/debianw/epic-react/testing-react-apps	0	zsh	:
+pane	EpicReact	0	:practice	0	:	3	:/Users/waly/Development/projects/debianw/epic-react/testing-react-apps	0	zsh	:
+pane	EpicReact	1	:react-native	0	:	0	:/Users/waly/Development/projects/debianw/react-native-apps/TestApp1	1	zsh	:
+pane	EpicReact	1	:react-native	0	:	1	:/Users/waly/Development/projects/debianw/react-native-apps/TestApp1	0	nvim	:nvim .
+pane	EpicReact	1	:react-native	0	:	2	:/Users/waly/Development/projects/debianw/react-native-apps/TestApp1	0	zsh	:
+pane	EpicReact	2	:story-book	0	:Z	0	:/Users/waly/Development/prototype/story-book-hack/taskbox	1	nvim	:nvim .
+pane	EpicReact	2	:story-book	0	:Z	1	:/Users/waly/Development/prototype/story-book-hack/taskbox	0	zsh	:
+pane	EpicReact	2	:story-book	0	:Z	2	:/Users/waly/Development/prototype/story-book-hack/taskbox	0	node	:node /Users/waly/.nvm/versions/node/v16.13.0/bin/yarn storybook
+pane	EpicReact	2	:story-book	0	:Z	3	:/Users/waly/Development/prototype/story-book-hack/taskbox	0	node	:node /Users/waly/.nvm/versions/node/v16.13.0/bin/yarn start
+pane	EpicReact	3	:cf-course	0	:-	0	:/Users/waly/Development/prototype/serverless-hack/cloudformation-course	1	nvim	:nvim .
+pane	EpicReact	4	:serverless-examples	1	:*	0	:/Users/waly/Development/prototype/serverless-hack/examples	1	nvim	:nvim .
+pane	TestSMARTER	0	:app	1	:*Z	0	:/Users/waly/Development/projects/testsmarter/TestsmarterV3	1	nvim	:nvim .
+pane	TestSMARTER	0	:app	1	:*Z	1	:/Users/waly/Development/projects/testsmarter/TestsmarterV3/docker/enlite-10	0	zsh	:
+pane	TestSMARTER	0	:app	1	:*Z	2	:/Users/waly/Development/projects/testsmarter/TestsmarterV3	0	zsh	:
+pane	Tools	0	:redis-server	0	:-	0	:/Users/waly/Development/tools/redis-6.2.1	1	redis-server	:./src/redis-server 0.0.0.0:6379 
+pane	Tools	0	:redis-server	0	:-	1	:/Users/waly	0	zsh	:
+pane	Tools	1	:ngrok	0	:	0	:/Users/waly/Development/tools	1	zsh	:
+pane	Tools	2	:zsh	1	:*	0	:/Users/waly/Development/prototype/nvim-hack/Neovim-from-scratch	1	zsh	:
+pane	consultor	0	:react-hack	0	:Z	0	:/Users/waly/Development/prototype/react-hack	0	zsh	:
+pane	consultor	0	:react-hack	0	:Z	1	:/Users/waly/Development/prototype/react-hack	1	zsh	:
+pane	consultor	0	:react-hack	0	:Z	2	:/Users/waly/Development/prototype/react-hack	0	zsh	:
+pane	consultor	1	:serverless-hack	0	:Z	0	:/Users/waly/Development/prototype/nvim-hack/Neovim-from-scratch	1	zsh	:
+pane	consultor	1	:serverless-hack	0	:Z	1	:/Users/waly/Development/prototype/serverless-hack	0	zsh	:
+pane	consultor	2	:zsh	1	:*Z	0	:/Users/waly/Development/projects/debianw/munity-main	1	nvim	:nvim .
+pane	consultor	2	:zsh	1	:*Z	1	:/Users/waly/.config/nvim	0	zsh	:
+pane	consultor	2	:zsh	1	:*Z	2	:/Users/waly/.local/share/fonts	0	zsh	:
+pane	consultor	3	:serverless-hack	0	:-	0	:/Users/waly/Development/prototype/serverless-hack/w-services	1	nvim	:nvim .
+pane	consultor	3	:serverless-hack	0	:-	1	:/Users/waly/Development/prototype/serverless-hack/w-services	0	zsh	:
+pane	node-proto	0	:serverless-examples	1	:*Z	0	:/Users/waly/Development/prototype/serverless-hack/examples	1	nvim	:nvim .
+pane	node-proto	0	:serverless-examples	1	:*Z	1	:/Users/waly/Development/prototype/serverless-hack/examples/aws-node-graphql-and-rds	0	zsh	:
+pane	node-proto	1	:api	0	:-	0	:/Users/waly/Development/projects/arman/project	1	nvim	:nvim .
+window	3advance	0	1	:*Z	33e8,272x57,0,0{90x57,0,0,1,181x57,91,0,2}
+window	3advance	1	0	:	035b,272x57,0,0{136x57,0,0[136x29,0,0,4,136x27,0,30,5],135x57,137,0,6}
+window	3advance	2	0	:-	66e4,272x57,0,0{136x57,0,0[136x24,0,0,7,136x32,0,25,8],135x57,137,0,9}
+window	3advance	3	0	:	db7d,272x57,0,0{136x57,0,0[136x29,0,0,10,136x27,0,30,11],135x57,137,0,12}
+window	DarkPOS-BE	0	1	:*Z	912e,272x62,0,0{136x62,0,0[136x31,0,0,13,136x30,0,32,52],135x62,137,0,14}
+window	DarkPOS-FE	0	0	:Z	eba2,272x57,0,0{137x57,0,0[137x31,0,0,15,137x25,0,32,51],134x57,138,0,16}
+window	DarkPOS-FE	1	0	:-Z	3791,272x57,0,0{90x57,0,0,61,181x57,91,0[181x28,91,0,62,181x28,91,29,85]}
+window	DarkPOS-FE	2	1	:*	e5e6,272x57,0,0,84
+window	EpicReact	0	0	:	1674,272x57,0,0{136x57,0,0[136x29,0,0,17,136x27,0,30,18],135x57,137,0[135x29,137,0,19,135x27,137,30,20]}
+window	EpicReact	1	0	:	b299,272x57,0,0{144x57,0,0[144x28,0,0,67,144x28,0,29,69],127x57,145,0,68}
+window	EpicReact	2	0	:Z	79fe,272x57,0,0{136x57,0,0,70,135x57,137,0[135x28,137,0,71,135x14,137,29,72,135x13,137,44,73]}
+window	EpicReact	3	0	:-	65e6,272x57,0,0,74
+window	EpicReact	4	1	:*	e5e5,272x57,0,0,83
+window	TestSMARTER	0	1	:*Z	103c,272x57,0,0{136x57,0,0,48,135x57,137,0[135x28,137,0,59,135x28,137,29,60]}
+window	Tools	0	0	:-	c0c6,272x62,0,0{136x62,0,0,35,135x62,137,0,36}
+window	Tools	1	0	:	65e7,272x57,0,0,37
+window	Tools	2	1	:*	5ce5,272x62,0,0,54
+window	consultor	0	0	:Z	4b44,272x57,0,0{134x57,0,0[134x29,0,0,38,134x27,0,30,39],137x57,135,0,40}
+window	consultor	1	0	:Z	40c3,272x62,0,0{136x62,0,0,41,135x62,137,0,42}
+window	consultor	2	1	:*Z	9ac3,272x57,0,0{136x57,0,0[136x30,0,0,53,136x26,0,31,55],135x57,137,0,44}
+window	consultor	3	0	:-	5669,272x57,0,0{136x57,0,0,75,135x57,137,0,76}
+window	node-proto	0	1	:*Z	566b,272x57,0,0{136x57,0,0,77,135x57,137,0,78}
+window	node-proto	1	0	:-	65eb,272x57,0,0,79
+state	DarkPOS-FE	
